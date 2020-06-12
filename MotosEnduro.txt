@@ -1,0 +1,6 @@
+		
+
+
+		MARCA   			CILINDRAJE/MOTOR			TIEMPOS DEL MOTOR
+		GasGas				    300CC			             4 TIEMPOS
+		Husqvarna			    450CC				     4 TIEMPOS

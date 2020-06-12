@@ -1,0 +1,7 @@
+  			
+					MTB
+		Marca de bikes 				Modelo
+		Santa Cruz				Enduro 
+		Scott					Enduro
+		Specialized				Downhill
+		Kona					Downhill
